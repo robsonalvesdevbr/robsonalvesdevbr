@@ -9,8 +9,9 @@
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 ---
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=robsonalvesdevbr&theme=radical)
-
+![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)
+![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)
+![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)
 
 
 
