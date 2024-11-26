@@ -7,31 +7,76 @@
 📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-<div style="font-family: Arial, sans-serif; line-height: 1.8;">
+<style>
+  .badge-links a {
+    margin-right: 10px;
+  }
+</style>
+
+<div class="badge-links">
   
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
+<a href="https://www.kernel.org" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux">
+</a>
+<a href="https://www.microsoft.com/pt-br/windows" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows">
+</a>
+<br>
+<a href="https://www.robsonalves.dev.br" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue" alt="Profile Views">
+</a>
+<a href="https://www.robsonalves.dev.br" target="_blank">
+  <img src="https://badges.pufler.dev/repos/robsonalvesdevbr" alt="Repos">
+</a>
+<a href="https://www.robsonalves.dev.br" target="_blank">
+  <img src="https://badges.pufler.dev/commits/monthly/robsonalvesdevbr" alt="Commits">
+</a>
+<a href="https://www.robsonalves.dev.br" target="_blank">
+  <img src="https://img.shields.io/github/followers/robsonalvesdevbr?style=social" alt="GitHub Followers">
+</a>
+<a href="https://www.robsonalves.dev.br" target="_blank">
+  <img src="https://img.shields.io/github/stars/robsonalvesdevbr?style=social" alt="GitHub Stars">
+</a>
+<br>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt=".NET">
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt="C# com .NET">
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
+</a>
+<a href="https://go.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go">
+</a>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust">
+</a>
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="SQL">
+<br>
+<a href="https://kubernetes.io" target="_blank">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
+</a>
+<a href="https://helm.sh/" target="_blank">
+  <img src="https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square" alt="Kubernetes com Helm">
+</a>
+<a href="https://minikube.sigs.k8s.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square" alt="Minikube">
+</a>
+<a href="https://k3d.io/stable/" target="_blank">
+  <img src="https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square" alt="K3d">
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker">
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker Compose">
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)](https://www.robsonalves.dev.br)
-[![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)](https://www.robsonalves.dev.br)
-[![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)](https://www.robsonalves.dev.br)
-[![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
-[![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
-[![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)](https://go.dev/)
-[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://kubernetes.io)
-[![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://helm.sh/)
-[![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)](https://minikube.sigs.k8s.io/)
-[![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://k3d.io/stable/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 
 </div>
 ---
