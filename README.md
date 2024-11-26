@@ -49,4 +49,5 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 
 ![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)
+
