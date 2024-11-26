@@ -7,6 +7,8 @@
 📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
+<div style="font-family: Arial, sans-serif; padding: 1px, 1px, 1px, 1px;">
+  
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
 
@@ -17,12 +19,12 @@
 [![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
-[!![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
+[![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
-[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
 [![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
@@ -31,6 +33,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
 
+</div>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -58,4 +61,3 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 [![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://www.robsonalves.dev.br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
-
