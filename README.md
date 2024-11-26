@@ -9,6 +9,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&theme=radical)
+
+
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Rust, Go, C#
 - **Frameworks:** Angular, React, Node.js, .NET
