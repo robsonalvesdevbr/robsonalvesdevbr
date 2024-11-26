@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Robson Alves!
 
-🎓 Arquiteto de Software | Desenvolvedor Full Stack  
+🎓 Arquiteto de Software | Desenvolvedor Back-End  
 🌐 Localização: Curitiba, Paraná, Brasil  
 📚 Formação em Redes de Computadores e Desenvolvimento Web  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
