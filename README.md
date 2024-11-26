@@ -12,6 +12,12 @@
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
 
 ---
 
