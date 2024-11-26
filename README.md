@@ -2,7 +2,9 @@
 
 🎓 Arquiteto de Software | Desenvolvedor Back-End  
 🌐 Localização: Curitiba, Paraná, Brasil  
-📚 Formação em Redes de Computadores e Desenvolvimento Web  
+📚 Formação em Redes de Computadores  
+📚 Desenvolvimento Web  
+📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
