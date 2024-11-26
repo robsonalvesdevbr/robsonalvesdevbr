@@ -10,6 +10,9 @@
 ![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)
 ![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
