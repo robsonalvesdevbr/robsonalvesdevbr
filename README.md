@@ -5,6 +5,9 @@
 📚 Formação em Redes de Computadores e Desenvolvimento Web  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)
 ![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)
 ![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)
