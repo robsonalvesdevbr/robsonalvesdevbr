@@ -11,6 +11,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
