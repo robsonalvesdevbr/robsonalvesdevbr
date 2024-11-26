@@ -26,12 +26,12 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-[![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-[![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-[![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://kubernetes.io)
+[![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://helm.sh/)
+[![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)](https://minikube.sigs.k8s.io/)
+[![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://k3d.io/stable/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 
 </div>
 ---
