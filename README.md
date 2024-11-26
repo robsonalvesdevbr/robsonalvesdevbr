@@ -5,6 +5,8 @@
 📚 Formação em Redes de Computadores e Desenvolvimento Web  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
+![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -25,8 +27,5 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 - LinkedIn: [Robson Alves](https://www.linkedin.com/in/robson-curitiba/)
 - GitHub: [Robson Alves](https://github.com/robsonalvesdevbr)
 - Linked: [Robson Alves](https://www.instagram.com/robsondesenvolvimento)
-
-![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 
 ![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
