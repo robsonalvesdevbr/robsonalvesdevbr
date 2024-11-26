@@ -47,10 +47,13 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 ---
 
 ## 🌐 Entre em Contato
-- Meu site: [www.robsonalves.dev.br](https://www.robsonalves.dev.br)
-- LinkedIn: [www.linkedin.com/in/robson-curitiba](https://www.linkedin.com/in/robson-curitiba)
-- GitHub: [github.com/robsonalvesdevbr](https://github.com/robsonalvesdevbr)
-- Linked: [www.instagram.com/robsondesenvolvimento](https://www.instagram.com/robsondesenvolvimento)
+<ul>
+  <li>Meu site: <a href="https://www.robsonalves.dev.br" target="_blank">https://www.robsonalves.dev.br</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/robson-curitiba" target="_blank">www.linkedin.com/in/robson-curitiba</a></li>
+  <li>GitHub: <a href="https://github.com/robsonalvesdevbr" target="_blank">github.com/robsonalvesdevbr</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/robsondesenvolvimento" target="_blank">www.instagram.com/robsondesenvolvimento</a></li>
+</ul>
+
 
 [![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://www.robsonalves.dev.br)
 
