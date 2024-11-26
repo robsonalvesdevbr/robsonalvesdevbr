@@ -8,8 +8,8 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, TypeScript, Python
-- **Frameworks:** Angular, React, Node.js
+- **Linguagens:** JavaScript, TypeScript, Rust, Go, C#
+- **Frameworks:** Angular, React, Node.js, .NET
 - **Ferramentas DevOps:** Docker, Kubernetes, CI/CD
 - **Cloud:** AWS, Azure
 
