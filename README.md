@@ -9,8 +9,9 @@
 ![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=robsonalvesdevbr&theme=radical)
+
+
 
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -33,3 +34,5 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 - Linked: [Robson Alves](https://www.instagram.com/robsondesenvolvimento)
 
 ![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&theme=radical)
