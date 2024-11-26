@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, sou o Robson Alves!
 
-<!--
-**robsonalvesdevbr/robsonalvesdevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Arquiteto de Software | Desenvolvedor Full Stack  
+🌐 Localização: Curitiba, Paraná, Brasil  
+📚 Formação em Redes de Computadores e Desenvolvimento Web  
+🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, TypeScript, Python
+- **Frameworks:** Angular, React, Node.js
+- **Ferramentas DevOps:** Docker, Kubernetes, CI/CD
+- **Cloud:** AWS, Azure
+
+---
+
+## 💡 Sobre Mim
+Sou apaixonado por resolver problemas complexos através da tecnologia, promovendo as melhores práticas de desenvolvimento e orientação de equipes para alcançar resultados excepcionais.
+
+---
+
+## 🌐 Entre em Contato
+- Meu site: [www.robsonalves.dev.br](https://www.robsonalves.dev.br)
+- LinkedIn: [Robson Alves](https://linkedin.com/in/seu-perfil)
+- GitHub: [robsonalvesdevbr](https://github.com/robsonalvesdevbr)
+
+![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
+
+![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
