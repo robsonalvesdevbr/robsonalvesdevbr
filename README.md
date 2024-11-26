@@ -7,7 +7,7 @@
 📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org){:target="_blank"}
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)](https://www.robsonalves.dev.br)
@@ -30,6 +30,7 @@
 [![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://k3d.io/stable/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
