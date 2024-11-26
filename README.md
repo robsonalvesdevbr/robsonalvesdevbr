@@ -7,7 +7,7 @@
 📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-<div style="font-family: Arial, sans-serif; padding: 1px, 1px, 1px, 1px;">
+<div style="font-family: Arial, sans-serif; line-height: 1.8;">
   
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
