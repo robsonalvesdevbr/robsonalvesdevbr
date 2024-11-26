@@ -5,15 +5,12 @@
 📚 Formação em Redes de Computadores e Desenvolvimento Web  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)
 ![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)
 ![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)
-
-
+![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Rust, Go, C#
