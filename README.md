@@ -22,7 +22,7 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 
 ## 🌐 Entre em Contato
 - Meu site: [www.robsonalves.dev.br](https://www.robsonalves.dev.br)
-- LinkedIn: [Robson Alves](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [Robson Alves](https://www.linkedin.com/in/robson-curitiba/)
 - GitHub: [robsonalvesdevbr](https://github.com/robsonalvesdevbr)
 
 ![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
