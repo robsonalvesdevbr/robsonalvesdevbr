@@ -7,29 +7,29 @@
 📚 Pós Graduação em JavaScript Fullstack  
 🚀 Atualmente cursando MBA em Arquitetura de Softwares  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
 
-![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)
-![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)
-![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)
-![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)
+[![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)](https://www.robsonalves.dev.br)
+[![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)](https://www.robsonalves.dev.br)
+[![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)](https://www.robsonalves.dev.br)
+[![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
+[![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
-![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
+[!![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)
-![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)
-![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
 
 ---
 
@@ -52,7 +52,7 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 - GitHub: [github.com/robsonalvesdevbr](https://github.com/robsonalvesdevbr)
 - Linked: [www.instagram.com/robsondesenvolvimento](https://www.instagram.com/robsondesenvolvimento)
 
-![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)
+[![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://www.robsonalves.dev.br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
 
