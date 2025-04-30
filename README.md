@@ -54,3 +54,7 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 [![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://www.robsonalves.dev.br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,go,rust,git,github,linux,rider,visualstudio,vscode,kafka,rabbitmq,docker,redis,kubernetes,terraform,azure,grafana,prometheus,aws,jenkins,nginx,angular,mongodb" />
+  </p>
