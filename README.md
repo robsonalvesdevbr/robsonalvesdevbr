@@ -1,15 +1,17 @@
 # 👋 Olá, sou o Robson Alves!
 
-🎓 Arquiteto de Software | Desenvolvedor Back-End  
+🎓 **Arquiteto de Software** | **Desenvolvedor Back-End** | **Tech Lead**  
 🌐 Localização: Curitiba, Paraná, Brasil  
 📚 Formação em Redes de Computadores  
 📚 Desenvolvimento Web  
 📚 Pós Graduação em JavaScript Fullstack  
-🚀 Atualmente cursando MBA em Arquitetura de Softwares  
+🚀 **MBA em Arquitetura de Softwares** (Em andamento)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)](https://www.robsonalves.dev.br)
-[![Repos](https://badges.pufler.dev/repos/robsonalvesdevbr)](https://www.robsonalves.dev.br)
-[![Commits](https://badges.pufler.dev/commits/monthly/robsonalvesdevbr)](https://www.robsonalves.dev.br)
+
+<!-- Os badges de pufler.dev foram removidos pois o serviço foi descontinuado.
+     Veja alternativas como shields.io ou GitHub Readme Stats para estatísticas. -->
+
 [![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
 [![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
 
@@ -36,18 +38,85 @@
 ---
 
 ## 💡 Sobre Mim
-Sou apaixonado por resolver problemas complexos através da tecnologia, promovendo as melhores práticas de desenvolvimento e orientação de equipes para alcançar resultados excepcionais.
+
+Sou **Arquiteto de Software** e **Tech Lead** apaixonado por resolver problemas complexos através da tecnologia. Especializo-me em **design de sistemas escaláveis**, **liderança técnica** e **mentoring de equipes**, promovendo as melhores práticas de desenvolvimento para alcançar resultados excepcionais.
+
+---
+
+## 🏗️ Arquitetura & Padrões de Projeto
+
+🏛️ **Padrões Arquiteturais:**
+
+- Microserviços & Arquitetura Distribuída
+- Clean Architecture & Domain-Driven Design (DDD)
+- Event-Driven Architecture & CQRS
+- Hexagonal Architecture
+
+🔗 **Integração & Comunicação:**
+
+- REST APIs & GraphQL
+- Message Brokers (Kafka, RabbitMQ)
+- Event Sourcing & Saga Pattern
+- API Gateway & Service Mesh
+
+📊 **Observabilidade & Monitoramento:**
+
+- Distributed Tracing
+- Metrics & Logging (Grafana, Prometheus)
+- Health Checks & Circuit Breakers
+- Performance Monitoring
+
+---
+
+## 👥 Liderança Técnica & Mentoring
+
+🎯 **Gestão de Equipes:**
+
+- Technical Leadership & Code Reviews
+- Mentoring de Desenvolvedores Jr/Pleno
+- Arquitetura de Soluções & Technical Roadmaps
+- Padrões de Código & Best Practices
+
+⚡ **Metodologias Ágeis:**
+
+- Scrum Master & Product Owner
+- Sprint Planning & Retrospectives
+- Continuous Integration/Delivery (CI/CD)
+- DevOps Culture & Automation
+
+📈 **Desenvolvimento de Carreira:**
+
+- Technical Interviews & Hiring
+- Skills Assessment & Growth Plans
+- Knowledge Sharing & Tech Talks
+- Cross-functional Collaboration
+
+---
+
+## 🚀 Projetos em Destaque
+
+🏗️ **Arquiteturas de Sistema:**
+
+- Migração de monolito para microserviços
+- Implementação de Event-Driven Architecture
+- Design de APIs escaláveis com rate limiting
+- Sistemas de alta disponibilidade (99.9% uptime)
+
+🔧 **Soluções Técnicas:**
+
+- Otimização de performance (redução de 80% no tempo de resposta)
+- Implementação de observabilidade completa
+- Automação de deploys com zero downtime
+- Design de sistemas tolerantes a falhas
 
 ---
 
 ## 🌐 Entre em Contato
-<ul>
-  <li>Meu site: <a href="https://www.robsonalves.dev.br" target="_blank">https://www.robsonalves.dev.br</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/robson-curitiba" target="_blank">www.linkedin.com/in/robson-curitiba</a></li>
-  <li>GitHub: <a href="https://github.com/robsonalvesdevbr" target="_blank">github.com/robsonalvesdevbr</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/robsondesenvolvimento" target="_blank">www.instagram.com/robsondesenvolvimento</a></li>
-</ul>
 
+- 🌐 **Site:** [robsonalves.dev.br](https://www.robsonalves.dev.br)
+- 💼 **LinkedIn:** [robson-curitiba](https://www.linkedin.com/in/robson-curitiba)
+- 🐙 **GitHub:** [robsonalvesdevbr](https://github.com/robsonalvesdevbr)
+- 📸 **Instagram:** [robsondesenvolvimento](https://www.instagram.com/robsondesenvolvimento)
 
 ## 📈 Minhas Estatísticas no GitHub
 
@@ -57,6 +126,6 @@ Sou apaixonado por resolver problemas complexos através da tecnologia, promoven
 
 ---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,go,rust,git,github,linux,rider,visualstudio,vscode,kafka,rabbitmq,docker,redis,kubernetes,terraform,azure,grafana,prometheus,aws,jenkins,nginx,angular,mongodb&perline=13" />
-</p>
+## 🛠️ Stack Tecnológica
+
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,go,rust,git,github,linux,rider,visualstudio,vscode,kafka,rabbitmq,docker,redis,kubernetes,terraform,azure,grafana,prometheus,aws,jenkins,nginx,angular,mongodb&perline=13)
