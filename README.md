@@ -124,6 +124,18 @@ Sou **Arquiteto de Software** e **Tech Lead** apaixonado por resolver problemas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
 
+## 🔥 Minhas Contribuições
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsonalvesdevbr&theme=radical)](https://www.robsonalves.dev.br)
+
+[![Robson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robsonalvesdevbr&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://www.robsonalves.dev.br)
+
+### 📊 Gráfico de Contribuições Anual
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/robsonalvesdevbr/robsonalvesdevbr/output/github-contribution-grid-snake.svg)
+
+### 🏆 Troféus do GitHub
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=robsonalvesdevbr&theme=radical&row=1&column=6)](https://www.robsonalves.dev.br)
+
 ---
 
 ## 🛠️ Stack Tecnológica
