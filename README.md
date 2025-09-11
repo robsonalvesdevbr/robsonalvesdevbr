@@ -124,17 +124,33 @@ Sou **Arquiteto de Software** e **Tech Lead** apaixonado por resolver problemas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
 
-## 🔥 Minhas Contribuições
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsonalvesdevbr&theme=radical)](https://www.robsonalves.dev.br)
-
-[![Robson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robsonalvesdevbr&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://www.robsonalves.dev.br)
-
-### 📊 Gráfico de Contribuições Anual
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/robsonalvesdevbr/robsonalvesdevbr/output/github-contribution-grid-snake.svg)
-
 ### 🏆 Troféus do GitHub
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=robsonalvesdevbr&theme=radical&row=1&column=6)](https://www.robsonalves.dev.br)
+
+## 🚀 Contribuições Open Source
+
+### 🎯 Pull Requests Aceitos
+
+> Contribuições em projetos de terceiros onde meus PRs foram merged
+
+<!-- Atualize manualmente com seus PRs aceitos mais relevantes -->
+
+#### 🔧 Projetos Destacados
+
+- **[Nome do Projeto](link-do-repo)** - Descrição da contribuição
+
+  - PR: [#123 - Título do PR](link-do-pr) ✅
+  - Impacto: Descrição do que foi melhorado/adicionado
+
+- **[Nome do Projeto](link-do-repo)** - Descrição da contribuição
+  - PR: [#456 - Título do PR](link-do-pr) ✅
+  - Impacto: Descrição do que foi melhorado/adicionado
+
+#### 📊 Estatísticas de Contribuição Externa
+
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests%20Aceitos-X-success?style=for-the-badge&logo=github)
+![Repositórios Contribuídos](https://img.shields.io/badge/Repositórios%20Contribuídos-Y-blue?style=for-the-badge&logo=git)
 
 ---
 
