@@ -1,91 +1,73 @@
-# 👋 Olá, sou o Robson Alves!
+<div align="center">
 
-🎓 **Arquiteto de Software** | **Desenvolvedor Back-End** | **Tech Lead**  
-🌐 Localização: Curitiba, Paraná, Brasil  
-📚 Formação em Redes de Computadores  
-📚 Desenvolvimento Web  
-📚 Pós Graduação em JavaScript Fullstack  
-🚀 **MBA em Arquitetura de Softwares** (Em andamento)
+# 👋 Hi, I'm Robson Alves
+
+**Software Architect** · .NET & Cloud Specialist · 23+ Years of Experience
+📍 Curitiba, Paraná, Brazil
 
 [![Profile Views](https://komarev.com/ghpvc/?username=robsonalvesdevbr&color=blue)](https://www.robsonalves.dev.br)
+[![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)](https://github.com/robsonalvesdevbr)
+[![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://github.com/robsonalvesdevbr)
 
-<!-- Os badges de pufler.dev foram removidos pois o serviço foi descontinuado.
-     Veja alternativas como shields.io ou GitHub Readme Stats para estatísticas. -->
-
-[![GitHub Followers](https://img.shields.io/github/followers/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
-[![GitHub Stars](https://img.shields.io/github/stars/robsonalvesdevbr?style=social)](https://www.robsonalves.dev.br)
+</div>
 
 ---
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.kernel.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square)](https://www.microsoft.com/pt-br/windows)
+## 💡 About Me
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
-[![C# com .NET](https://img.shields.io/badge/C%23%20com%20.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/pt-br/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)](https://go.dev/)
-[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
-[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)](https://www.robsonalves.dev.br)
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)](https://kubernetes.io)
-[![Kubernetes com Helm](https://img.shields.io/badge/Kubernetes%20com%20Helm-0F1689?logo=helm&logoColor=white&style=flat-square)](https://helm.sh/)
-[![Minikube](https://img.shields.io/badge/Minikube-FCC624?logo=kubernetes&logoColor=white&style=flat-square)](https://minikube.sigs.k8s.io/)
-[![K3d](https://img.shields.io/badge/K3d-FF9900?logo=k3s&logoColor=white&style=flat-square)](https://k3d.io/stable/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
+I'm a **Software Architect** based in Curitiba, Brazil, with a 23+ year career that started as a programming instructor and evolved into designing and modernizing critical systems. I spent 11 years building financial systems — checking accounts, document processing, leasing operations — before leading a full migration from Delphi to .NET, and later introducing microservices, containers and cloud platforms to industrial and financial systems. Today I work as an architect and consultant for **fintechs and payment gateways**, focused on cloud architecture (Azure/AWS), observability and modernizing legacy systems with modern DevOps practices.
 
 ---
 
-## 💡 Sobre Mim
+## 🧭 Career Journey
 
-Sou **Arquiteto de Software** e **Tech Lead** apaixonado por resolver problemas complexos através da tecnologia. Especializo-me em **design de sistemas escaláveis**, **liderança técnica** e **mentoring de equipes**, promovendo as melhores práticas de desenvolvimento para alcançar resultados excepcionais.
+| Period | Company | Focus |
+|---|---|---|
+| 2021 – Present | **Consilux** | Software Architect for fintechs & payment gateways — Azure, AWS, .NET, RabbitMQ, Kubernetes, DataDog, Grafana; legacy modernization & DevOps |
+| 2019 – 2021 | **Zylix** | Modernized industrial automation systems — introduced .NET Core, microservices, Docker, Kubernetes, Azure |
+| 2008 – 2019 | **View Financial Systems** | 11 years building critical financial systems; led the migration from Delphi to .NET (C#, Oracle, SQL Server) |
+| 2006 – 2008 | **Softpar** | Transitioned from teaching to enterprise software development, working with Delphi and relational databases |
+| 2001 – 2006 | **Alpha Tech** | Started as an instructor, teaching Delphi programming, hardware, web design and computer fundamentals |
 
 ---
 
-## 🏗️ Arquitetura & Padrões de Projeto
+## 🏗️ Architecture & Design Patterns
 
-🏛️ **Padrões Arquiteturais:**
-
-- Microserviços & Arquitetura Distribuída
+🏛️ **Architectural Patterns**
+- Microservices & Distributed Architecture
 - Clean Architecture & Domain-Driven Design (DDD)
 - Event-Driven Architecture & CQRS
 - Hexagonal Architecture
 
-🔗 **Integração & Comunicação:**
-
+🔗 **Integration & Communication**
 - REST APIs & GraphQL
 - Message Brokers (Kafka, RabbitMQ)
 - Event Sourcing & Saga Pattern
 - API Gateway & Service Mesh
 
-📊 **Observabilidade & Monitoramento:**
-
+📊 **Observability & Monitoring**
 - Distributed Tracing
-- Metrics & Logging (Grafana, Prometheus)
+- Metrics & Logging (Grafana, Prometheus, DataDog)
 - Health Checks & Circuit Breakers
 - Performance Monitoring
 
 ---
 
-## 👥 Liderança Técnica & Mentoring
+## 👥 Technical Leadership & Mentoring
 
-🎯 **Gestão de Equipes:**
-
+🎯 **Team Management**
 - Technical Leadership & Code Reviews
-- Mentoring de Desenvolvedores Jr/Pleno
-- Arquitetura de Soluções & Technical Roadmaps
-- Padrões de Código & Best Practices
+- Mentoring Junior/Mid-level Developers
+- Solution Architecture & Technical Roadmaps
+- Coding Standards & Best Practices
 
-⚡ **Metodologias Ágeis:**
-
+⚡ **Agile Methodologies**
 - Scrum Master & Product Owner
 - Sprint Planning & Retrospectives
 - Continuous Integration/Delivery (CI/CD)
 - DevOps Culture & Automation
 
-📈 **Desenvolvimento de Carreira:**
-
+📈 **Career Development**
 - Technical Interviews & Hiring
 - Skills Assessment & Growth Plans
 - Knowledge Sharing & Tech Talks
@@ -93,39 +75,36 @@ Sou **Arquiteto de Software** e **Tech Lead** apaixonado por resolver problemas 
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🎓 Education & Certifications
 
-🏗️ **Arquiteturas de Sistema:**
-
-- Migração de monolito para microserviços
-- Implementação de Event-Driven Architecture
-- Design de APIs escaláveis com rate limiting
-- Sistemas de alta disponibilidade (99.9% uptime)
-
-🔧 **Soluções Técnicas:**
-
-- Otimização de performance (redução de 80% no tempo de resposta)
-- Implementação de observabilidade completa
-- Automação de deploys com zero downtime
-- Design de sistemas tolerantes a falhas
+- 🎓 MBA in Software Architecture — **FullCycle** (completed)
+- 🎓 Postgraduate, GO Expert — **FullCycle** (completed)
+- 🎓 Postgraduate, Fullstack JavaScript — Faculdade Cruzeiro do Sul (2022)
+- 🎓 Bachelor's, Computer Networks — Faculdade Tuiuti do Paraná (2012)
+- 📜 150+ courses completed covering cloud architecture (AZ-303/AZ-304), Kubernetes, Go, Kafka, security (OWASP) and applied AI/GenAI (Alura, Udemy, LinkedIn Learning, Desenvolvedor.IO)
 
 ---
 
-## 🌐 Entre em Contato
+## 🛠️ Tech Stack
 
-- 🌐 **Site:** [robsonalves.dev.br](https://www.robsonalves.dev.br)
-- 💼 **LinkedIn:** [robson-curitiba](https://www.linkedin.com/in/robson-curitiba)
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,go,rust,nodejs,js,ts,angular,py,git,github,linux,windows,vscode,visualstudio,rider,docker,kubernetes,terraform,azure,aws,kafka,rabbitmq,redis,mongodb,postgres,grafana,prometheus,jenkins,nginx&perline=13)
+
+Also in the toolbox: Helm, Minikube, k3d, Docker Compose, SQL Server, GraphQL
+
+---
+
+## 🌐 Contact
+
+- 🌐 **Website:** [robsonalves.dev.br](https://www.robsonalves.dev.br)
+- 💼 **LinkedIn:** [in/robsonalves-us](https://www.linkedin.com/in/robsonalves-us)
 - 🐙 **GitHub:** [robsonalvesdevbr](https://github.com/robsonalvesdevbr)
 - 📸 **Instagram:** [robsondesenvolvimento](https://www.instagram.com/robsondesenvolvimento)
-
-## 📈 Minhas Estatísticas no GitHub
-
-[![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://www.robsonalves.dev.br)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&&langs_count=10&theme=radical)](https://www.robsonalves.dev.br)
+- ✉️ **Email:** [robsonalves.us@gmail.com](mailto:robsonalves.us@gmail.com)
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 📈 GitHub Stats
 
-![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,go,rust,git,github,linux,rider,visualstudio,vscode,kafka,rabbitmq,docker,redis,kubernetes,terraform,azure,grafana,prometheus,aws,jenkins,nginx,angular,mongodb&perline=13)
+[![Robson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonalvesdevbr&show_icons=true&theme=radical)](https://github.com/robsonalvesdevbr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonalvesdevbr&layout=compact&langs_count=10&theme=radical)](https://github.com/robsonalvesdevbr)
